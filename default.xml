@@ -21,8 +21,8 @@
            review="codeaurora.org"/>
            
   <remote name="blobs"
-           fetch="https://github.com/TheMuppets"
-           revision="cm-14.1"/>
+           fetch="https://github.com/ThankYouMario"
+           revision="nougat-mr2"/>
        
   <remote  name="github"
            fetch="https://github.com"/>
