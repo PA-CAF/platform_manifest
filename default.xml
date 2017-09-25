@@ -431,7 +431,6 @@
   <project name="platform/packages/apps/SafetyRegulatoryInfo" path="packages/apps/SafetyRegulatoryInfo" />
   <project groups="pdk-fs" name="platform/packages/apps/Settings" path="packages/apps/Settings" />
   <project name="platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" />
-  <project name="platform/packages/apps/SnapdragonCamera" path="packages/apps/SnapdragonCamera" />
   <project name="platform/packages/apps/SnapdragonGallery" path="packages/apps/SnapdragonGallery" />
   <project name="platform/packages/apps/SnapdragonLauncher" path="packages/apps/SnapdragonLauncher" />
   <project name="platform/packages/apps/SnapdragonMusic" path="packages/apps/SnapdragonMusic" />
